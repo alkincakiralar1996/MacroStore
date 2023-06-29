@@ -1,5 +1,9 @@
 # MacroStore :rocket:
 
+[![Swift 5.0](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)](https://developer.apple.com/swift/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-ios-blue.svg?style=flat)]([https://cocoapods.org/pods/iOSDropDown](https://github.com/alkincakiralar1996/MacroStore))
+
 Bunch of Swift Macros
 <br/>
 I'll gather plenty of macros which can be helpfull for swift development to this repository
